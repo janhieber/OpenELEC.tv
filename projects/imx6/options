@@ -56,6 +56,7 @@
     KERNEL_UBOOT_EXTRA_TARGET="$KERNEL_UBOOT_EXTRA_TARGET imx6q-hummingboard.dtb imx6dl-hummingboard.dtb"
     KERNEL_UBOOT_EXTRA_TARGET="$KERNEL_UBOOT_EXTRA_TARGET imx6q-tbs2910.dtb"
     KERNEL_UBOOT_EXTRA_TARGET="$KERNEL_UBOOT_EXTRA_TARGET imx6q-udoo.dtb imx6dl-udoo.dtb"
+    KERNEL_UBOOT_EXTRA_TARGET="$KERNEL_UBOOT_EXTRA_TARGET imx6dl-marsboard.dtb"
 
   # Additional kernel make parameters (for example to specify the u-boot loadaddress)
     KERNEL_MAKE_EXTRACMD=""
